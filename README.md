@@ -93,18 +93,23 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alif258&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alif258&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif258&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alif258&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" />
-</p>
+<div align="center">
+
+<!-- GitHub Stats — github-profile-summary-cards (reliable alternative) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alif258&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alif258&theme=tokyonight&utcOffset=6" width="48%" />
+
+<!-- Top Languages — github-profile-summary-cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alif258&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alif258&theme=tokyonight" width="48%" />
+
+<!-- Streak — streak-stats (more reliable endpoint) -->
+<img src="https://streak-stats.demolab.com?user=alif258&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="96%" />
+
+<!-- Activity Graph — unchanged, still works -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alif258&theme=tokyo-night&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true" width="96%" />
+
+</div>
 
 ---
 
